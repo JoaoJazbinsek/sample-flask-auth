@@ -1,2 +1,2 @@
 # sample-flask-auth
-TESTE PARA APRENDER
+TESTE PARA APRENDER.
